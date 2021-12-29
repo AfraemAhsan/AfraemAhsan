@@ -1,5 +1,5 @@
-### Hi there 👋, I am Afraem Ahsan .#### I am Programmer , Full-Stack Software engineer and developer.
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
+### Hi there 👋, I am Afraem Ahsan .I am Programmer,Full-Stack Software engineer and developer & .
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 
 
 
