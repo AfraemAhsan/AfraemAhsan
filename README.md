@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 
-**AfraemAhsan/AfraemAhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Afraem Ahsan a Programmer / developer and a write . I am Full-Stack Programmer ,Software engineer and a developer . Stay with me and keep update  .
 
 Here are some ideas to get you started:
 
