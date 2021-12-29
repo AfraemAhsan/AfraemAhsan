@@ -1,4 +1,4 @@
-### Hi there 👋, I am Afraem Ahsan .I am Programmer,Full-Stack Software engineer and developer & .
+### Hi there 👋, I am Afraem Ahsan .I am Programmer,Full-Stack Software engineer and Web & Mobile App developer  .
 
 
 
